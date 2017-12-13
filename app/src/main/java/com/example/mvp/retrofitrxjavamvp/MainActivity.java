@@ -15,7 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Used to load the 'native-lib' library on application startup.
+    // Used to load the 'native-lib' library on application startup.h;oihiol;h
     static {
         System.loadLibrary("native-lib");
     }
